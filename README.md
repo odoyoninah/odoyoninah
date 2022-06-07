@@ -17,7 +17,7 @@ Ninah is a Full-Stack developer with a bachelors in Economics and Statistics fro
 - github Dev Ninah(odoyoninah)
 - Email me at odoyoninah@gmail.com
 - Slack me on Nina Odoyo
-- Twitter @Coco56
+- Twitter @Coco14
 
 ### Personality Reveal
 - 😄 Pronouns: she/her
