@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ninah
 
 ### About Me
-Ninah is a full-stack developer open to learning new things and getting involved in new languages.Always open to new experiences.
+Ninah is a Full-Stack developer with a bachelors in Economics and Statistics from The University Of Nairobi .I'm open to learning new things and getting involved in new languages and always open to new experiences.
 
 ### Current Project
 - 🔭 I’m currently working on intergration of different programming languages Python,Django,JavaScript,Angular,C++
@@ -13,7 +13,9 @@ Ninah is a full-stack developer open to learning new things and getting involved
 - 💬 Ask me about Python and Django
 
 ### Reach me on
-- 📫 How to reach me: Email me at odoyoninah@gmail.com,
+- 📫 How to reach me: Email me at odoyoninah@gmail.com
+- Slack me on Nina Odoyo
+- Twitter @Coco 56
 
 ### Personality Reveal
 - 😄 Pronouns: she/her
